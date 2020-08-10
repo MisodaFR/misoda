@@ -38,6 +38,11 @@ export class AppComponent implements OnInit {
       title: 'Media',
       url: '/app/tabs/media',
       icon: 'bug'
+    },
+    {
+      title: 'People',
+      url: '/app/tabs/people',
+      icon: 'people'
     }
   ];
   loggedIn = false;
