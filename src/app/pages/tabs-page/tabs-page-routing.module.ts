@@ -52,6 +52,19 @@ const routes: Routes = [
         ]
       },
       {
+        path: 'people',
+        children: [
+          {
+            path: '',
+            loadChildren: () => import('../people/people.module').then(m => m.PeoplePageModule)
+          },
+          {
+            path: 'person-details/:personId',
+            loadChildren: () => import('../person-details/person-details.module').then(m => m.PersonDetailsPageModule)
+          }
+        ]
+      },
+      {
         path: 'settings',
         children: [
           {
