@@ -1,0 +1,37 @@
+{
+  "people": [
+    {
+      "id" : "0",
+      "name" : "DANG Nhu Quan",
+      "title" : "CEO",
+      "profilePic" : "/assets/img/people/NhuQuanDANG.jpeg",
+      "webSite" : "https://www.linkedin.com/in/daniel-nhu-quan/",
+      "GitHub" : "https://github.com/MisodaFR"
+    },
+
+    {
+      "id" : "1",
+      "name" : "DANG Nhu Quan",
+      "title" : "Dev",
+      "profilePic" : "/assets/img/people/NhuQuanDANG.jpeg",
+      "webSite" : "https://www.linkedin.com/in/daniel-nhu-quan/",
+      "GitHub" : "https://github.com/nhuquan"
+    },
+    {
+      "id" : "2",
+      "name" : "NGO Khoa Anh",
+      "title" : "Stagaire",
+      "profilePic" : "/assets/img/people/KhoaAnhNGO.jpeg",
+      "webSite" : "https://www.linkedin.com/in/khoa-anh-ngo-5985a9156/",
+      "GitHub" : "https://github.com/ngokhoaanh"
+    },
+    {
+      "id" : "3",
+      "name" : "DANG Vu My Linh",
+      "title" : "Stagaire",
+      "profilePic" : "/assets/img/people/VuLinhDANG.png",
+      "webSite" : "https://github.com/Bidang97",
+      "GitHub" : "https://www.linkedin.com/in/linh-dang-vu-724312194/"
+    }
+  ]
+}
