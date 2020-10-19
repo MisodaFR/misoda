@@ -1,9 +1,9 @@
 {
-  "name": "ionic-conference-app",
+  "name": "misoda-logiciel",
   "version": "0.0.0",
-  "description": "Ionic Conference App",
-  "author": "Ionic Team <hi@ionicframework.com>",
-  "license": "Apache-2.0",
+  "description": "Misoda Web Android IOS Logiciel",
+  "author": "Misoda <ddang3008@gmail.com>",
+  "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
